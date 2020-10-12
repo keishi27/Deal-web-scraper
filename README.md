@@ -1,1 +1,1 @@
-# hotukdeals
+# Tool to find and analyze the best online deals
