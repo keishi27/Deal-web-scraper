@@ -1,1 +1,3 @@
-# Tool to find and analyze the best online deals
+# Deal Searcher
+
+Tool to find and analyze the best online deals.
