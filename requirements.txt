@@ -1,0 +1,7 @@
+pandas
+selenium
+datetime
+numpy
+seaborn
+sklearn
+wordcloud
